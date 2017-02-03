@@ -1,4 +1,4 @@
-# whatis
+#whatis
 
 Whatis utility for Windows that stores information about files using ESENT.
 
